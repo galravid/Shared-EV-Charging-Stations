@@ -87,6 +87,6 @@ Next steps: secure payment processing, direct integration with EvEnergy's charge
 ## Team
 
 - **Gal Ravid** · [LinkedIn](https://www.linkedin.com/in/galravid/)
-- **Tammy Gelman**
+- **Tammy Guelmann**
 
 In collaboration with EvEnergy.
